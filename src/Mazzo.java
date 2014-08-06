@@ -10,7 +10,7 @@ public class Mazzo implements def_Mazzo{
 	@Override
 	public int numero_Carte() {
 		// TODO Auto-generated method stub
-		return 0;
+		return mazzo.size();
 	}
 
 	@Override
