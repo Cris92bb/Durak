@@ -24,13 +24,11 @@ public class Prova {
 		int sceltaCarta= tastiera.nextInt();
 		Carta y=x.mettiSulTavolo(sceltaCarta)	;
 		if(tavolo.attacca(y))
-			System.out.prinlnt("TAVOLO: "+tavolo);
+			System.out.println("TAVOLO: "+tavolo);
 		
 		
 	}
-	public static void atboi(){
-		tavolo.atboi();
-	}
+	
 	
 	
 	
