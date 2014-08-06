@@ -47,7 +47,7 @@ public class Tavolo {
 		}
 			
 			
-	public void atboi(){
+	public void reset(){
 		carteSulTavolo.removeAllElements();
 	}
 	
