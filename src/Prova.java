@@ -6,7 +6,6 @@ public class Prova {
 	private static Giocatore uno = new Giocatore();
 	private static Giocatore due = new Giocatore();
 	private static Mazzo mPoker = new Mazzo();
-	private static Vector<Carta> Tavolo = new Vector();
 	static Tavolo tavolo = new Tavolo();
 	static Scanner tastiera = new Scanner(System.in);
 	
