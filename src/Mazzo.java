@@ -36,13 +36,8 @@ public class Mazzo implements def_Mazzo{
 		
 		
 	}
-	public boolean isEmpty(){
-		if(mazzo.size()==0)
-			return true;
-		else
-			return false;
-	}
 	
+	public boolean isEmpty(){ return (mazzo.size()==0) }
 
 	@Override
 	public void ResetMazzo() {
