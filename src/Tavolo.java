@@ -12,11 +12,10 @@ public class Tavolo {
 		
 	}
 	public boolean isEmpty(){
-		if(carteSulTavolo.size()==0)
-			return true;
-		else 
-			return false;
+		
+		return carteSulTavolo.size() == 0;
 	}
+	
 	public boolean addCarta(Carta x){
 		if(isEmpty()){
 		carteSulTavolo.addElement(x);
