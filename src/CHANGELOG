@@ -16,5 +16,5 @@ Creato la classe provaCarte, un'interfaccia grafica minimale, per vedere il funz
 
 TODO: da fare
 fare il progressivo movimento della carta dalla posizione iniziale girata alla posizione dove si clicca
-cambiare l'implementazione della carta usando facendole estendere i thread?
+Dovrei cambiare l'implementazione della carta creandola come Thread?
 */
