@@ -1,0 +1,20 @@
+/*MODIFICA 27.3.2015
+
+Tolto le classi incomplete e le rispettive interfacce
+
+Cambiato il mazzo da VECTOR -> ARRAYLIST
+
+Aggiungo:
+shapeSeme che alla creazione della carta gli atribuisce una Shape del seme
+sempre in shapeSeme ho aggiunto il colore da attribuire ai vari semi e sempre implementati alla creazione della carta
+
+aggiunto il metodo drawCarta()  nella classe carta cosi viene disegnata quando serve.
+il metodo drawCartaBack() perche sia disegnata da girata.
+
+Creato la classe provaCarte, un'interfaccia grafica minimale, per vedere il funzionamento
+
+
+TODO: da fare
+fare il progressivo movimento della carta dalla posizione iniziale girata alla posizione dove si clicca
+cambiare l'implementazione della carta usando facendole estendere i thread?
+*/
