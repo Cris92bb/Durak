@@ -18,3 +18,13 @@ TODO: da fare
 fare il progressivo movimento della carta dalla posizione iniziale girata alla posizione dove si clicca
 Dovrei cambiare l'implementazione della carta creandola come Thread?
 */
+
+MODIFICA 27.03.2015 primoPomeriggio
+
+Implementato il "drag&drop" delle carte iniziale dal mazzo
+
+
+implementato un array che tiene conto delle posizioni delle carte gia spostate
+
+
+
